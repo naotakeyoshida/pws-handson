@@ -17,6 +17,7 @@ cd /home/vagrant
 git clone https://github.com/naotakeyoshida/pws-handson1.git
 git clone https://github.com/naotakeyoshida/pws-handson2.git
 git clone https://github.com/naotakeyoshida/pws-handson3.git
+git clone https://github.com/naotakeyoshida/pws-handson4.git
 
 ## Install CF CLI
 curl -L "https://cli.run.pivotal.io/stable?release=linux64-binary&source=github" | tar -zx
